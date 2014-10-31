@@ -19,6 +19,7 @@ H1 {
 	letter-spacing: 1px;
 	color: white;
 	margin: 5% auto;
+	text-align: center;
 }
 #page-header{
 	margin-bottom: -14px;
@@ -64,15 +65,6 @@ h2 {
 
 	margin: 0px auto;
 }
-#vp-title{
-
-	letter-spacing: 1px;
-	color: white;/*#313131*/
-	width: 35%;
-
-	font-weight: normal;
-	margin: 20px auto;
-}
 
 #who{
 	letter-spacing: 1px;
@@ -117,13 +109,13 @@ section {
 footer {
 
 	margin-bottom: 0px;
-	margin-top: 10px;
+	margin-top: 5 px;
 	background-color: #272727;
 	padding: 2% 10%;
 	font-size: 75%;
 	font-weight: 100;
 	color: white;
-	height: 50px;
+	height: 30px;
 	/*#545252*/
 }
 
