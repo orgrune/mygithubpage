@@ -15,6 +15,11 @@ body {
 a {
 	color: white;
 }
+H1 { 
+	letter-spacing: 1px;
+	color: white;
+	margin: 5% auto;
+}
 #page-header{
 	margin-bottom: -14px;
 background-color:#434343;
