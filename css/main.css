@@ -22,13 +22,13 @@ H1 {
 }
 #page-header{
 	margin-bottom: -14px;
-background-color:#442F25;
+background-color:#434343;
 	padding-bottom: 10px;
 }
 
 #navigationBar {
 
-	border-bottom: 1px solid #CC582F;
+	border-bottom: 1px solid #71EEB8;
 }
 
 .seperator {
@@ -46,7 +46,7 @@ background-color:#442F25;
 	margin: 0px auto;
 	color: white;
 	padding-bottom: 10px;
-	background-color: #442F25;
+	background-color: #292929;
 }
 h2 {
 	letter-spacing: 1px;
@@ -118,7 +118,7 @@ footer {
 
 	margin-bottom: 0px;
 	margin-top: 10px;
-	background-color: #442F25;
+	background-color: #272727;
 	padding: 2% 10%;
 	font-size: 75%;
 	font-weight: 100;
