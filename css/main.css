@@ -43,7 +43,7 @@ background-color:#434343;
 
 #page-wrap {
 	text-align: left;
-	width: 96%;
+	width: 100%;
 	margin: 0px auto;
 	color: white;
 	padding-bottom: 10px;
@@ -94,7 +94,7 @@ h2 {
 	font-weight: normal;
 }
 p {
-	line-height: 22px;
+	line-height: 50px;
 	text-align: justify;
 	font-size: 90%;
 	color: white;
